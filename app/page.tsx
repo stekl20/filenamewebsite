@@ -2,7 +2,7 @@ import { FileRenamer } from "@/components/file-renamer"
 import { ThemeToggle } from "@/components/theme-toggle"
 
 // Define the current version as a constant for easy updates
-const CURRENT_VERSION = "v1.2"
+const CURRENT_VERSION = "v1.3"
 
 export default function Home() {
   return (
